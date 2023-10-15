@@ -1,0 +1,30 @@
+.form .dob-input
+{
+    width: 10%;
+    display: block;
+    margin: 10px auto;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.form button
+{
+    background-color: rgb(10, 120, 245);
+    margin-top: 16px;
+    color: white;
+    padding: 8px 14px;
+    border: 0;
+    border-radius: 6px;
+}
+
+.form button:hover
+{
+    background-color: rgb(83, 163, 255);
+    cursor: pointer;
+}
+
+.form button:active
+{
+    background-color: rgb(18, 91, 175);
+}
